@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         builder: (context, child) {
           return GetMaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'BVLK Page',
+            title: 'BVLK CLOTHING',
             theme: ThemeData.light(),
             home: CartPage(),
           );
