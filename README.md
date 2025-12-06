@@ -1,16 +1,37 @@
-# sheik_clothing
+# BVLK CLOTHING APP
 
-A new Flutter project.
+BVLK Clothing is a modern mobile shopping application built with Flutter, designed to provide a fast, smooth, and stylish shopping experience. The app showcases BVLK’s latest streetwear collections, allowing users to browse products, view detailed item information, and stay updated with new drops.
 
-## Getting Started
+## 🚀 Quick Start (For Teammates)
 
-This project is a starting point for a Flutter application.
+### 1. Install Flutter
+- Download from: https://docs.flutter.dev/get-started/install
+- Run `flutter doctor` to verify installation
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Get the Project
+```bash
+git clone <your-github-repo-url>
+cd bvlk_clothing_app
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Install Dependencies
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Run the App
+```bash
+flutter run
+```
+
+## 🔧 If Something Goes Wrong
+
+```bash
+# Clean and rebuild
+flutter clean
+flutter pub get
+flutter run
+```
+
+That's it! The app should start and you can explore the features.
+
